@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlyahovich&label=Profile%20views&color=0e75b6&style=flat" alt="vlyahovich" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlyahovich" alt="vlyahovich" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/zefrost" target="blank"><img src="https://img.shields.io/twitter/follow/zefrost?logo=twitter&style=for-the-badge" alt="zefrost" /></a> </p>
 
 - 🔭 I’m currently working on **various game/js projects**
